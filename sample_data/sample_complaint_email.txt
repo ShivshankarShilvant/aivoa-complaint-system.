@@ -1,0 +1,33 @@
+From: quality@meridianpharma.com
+To: complaints@apimanufacturer.com
+Subject: Quality complaint - Metformin HCl API, Batch MH-2024-118
+
+Dear Quality Team,
+
+We are writing to report a quality issue with a recent shipment of Metformin
+Hydrochloride API (Ph. Eur. grade) received from your Vizag facility.
+
+Batch/Lot Number: MH-2024-118
+Manufacturing Date: 03-Feb-2026
+Expiry Date: 02-Feb-2028
+Quantity Affected: 250 kg (out of a 500 kg drum shipment)
+
+During incoming QC testing at our formulation site, we observed visible
+discoloration (light brown particles) in approximately half of the drum
+contents. Assay and related substances testing is in progress, but the
+visual defect alone is enough for us to place this batch on hold.
+
+This is a quality complaint, not an adverse event - no patient exposure has
+occurred as the material was intercepted at incoming inspection before
+being released to production.
+
+Please investigate the root cause of the discoloration and advise on
+corrective action. We would also like a certificate of re-analysis for the
+retained sample.
+
+Regards,
+Priya Nair
+Quality Assurance Manager
+Meridian Pharma Pvt Ltd
+
+Complaint logged: 15-Jul-2026
